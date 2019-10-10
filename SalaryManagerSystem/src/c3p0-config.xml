@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c3p0-config>
+
+	<default-config>
+		<property name="driverClass">com.mysql.jdbc.Driver</property>
+		<property name="jdbcUrl">
+			<![CDATA[jdbc:mysql://xxx.xxx.xxx.xxx/xxx?useUnicode=true&characterEncoding=UTF-8&useSSL=true&serverTimezone=GMT]]>
+		</property>
+		<property name="user">xxxx</property>
+		<property name="password">xxxx</property>
+	</default-config>
+
+
+</c3p0-config>
