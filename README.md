@@ -1,10 +1,8 @@
 # 简易工资管理系统
 
-**作者：vili &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 联系方式1976763043@qq.com**
+**作者：积极向上的木木 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 联系方式：PositiveMumu@126.com**
 
-*一个基于JSP+Servlet的简易的工资管理系统*
-
-[TOC]
+*基于JSP+Servlet的简易的工资管理系统*
 
 ## 一、项目功能
 
