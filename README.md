@@ -50,29 +50,29 @@
 
 1. 主界面：
 
-   ![mark](http://image.vilicode.com/blog/20191010/xhNMm7mpf75k.png?imageslim)
+![主界面](README/主界面.png)
 
 2. 登录界面：
 
-   ![mark](http://image.vilicode.com/blog/20191010/hKRbylB2K5Yr.png?imageslim)
+![登录界面](README/登录界面.png)
 
 3. 员工信息管理界面：
 
-   ![mark](http://image.vilicode.com/blog/20191010/et5JyBCEPbym.png?imageslim)
+![员工信息界面](README/员工信息界面.png)
 
 4. 员工信息详情界面：
 
-   ![mark](http://image.vilicode.com/blog/20191010/tJMKnky4EhEA.png?imageslim)
+![员工信息详情界面](README/员工信息详情界面.png)
 
 5. 部门信息管理界面：
 
-   ![mark](http://image.vilicode.com/blog/20191010/76Y8NwLdoquk.png?imageslim)
+![部门信息界面](README/部门信息界面.png)
 
 6. 部门信息详情界面：
 
-   ![mark](http://image.vilicode.com/blog/20191010/rK4BAe3ISn6e.png?imageslim)
+![部门详细信息界面](README/部门详细信息界面.png)
 
 7. 录入与生成工资表页面：
 
-   ![mark](http://image.vilicode.com/blog/20191010/NUE9Eqo5EWfN.png?imageslim)
+![录入与生成工资界面](README/录入与生成工资界面.png)
 

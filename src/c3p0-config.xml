@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c3p0-config>
+	<!-- 默认配置，只可以出现一次 -->
+	<default-config>
+		<property name="driverClass">com.mysql.jdbc.Driver</property>
+		<property name="jdbcUrl">
+			<![CDATA[jdbc:mysql://xxx.xxx.xxx.xxx:3306/xxx?useUnicode=true&characterEncoding=UTF-8&useSSL=false]]>
+		</property>
+		<property name="user">xxx</property>
+		<property name="password">xxx</property>
+	</default-config>
+</c3p0-config>
